@@ -2,8 +2,10 @@
 
 # rabbitMQ password hashing algo as laid out in:
 # http://lists.rabbitmq.com/pipermail/rabbitmq-discuss/2011-May/012765.html
+#
+# ./rabbit_hash.py MmMzMTc3MmQ5YjBhM2
+# WghyhorCPOZZP1A2lx+BRhfmbx547YG1OWH3A7+zGstvtsO9
 
-from __future__ import print_function
 import base64
 import os
 import hashlib
